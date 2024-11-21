@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Sean, an IT Professional 👋
 
 <!--
 **SSmall20/SSmall20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
